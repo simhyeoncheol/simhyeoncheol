@@ -38,7 +38,7 @@ iPhone · Apple Watch · macOS · Windows · Chrome까지, 한 아이디어를 �
 
 ### Activity
 
-<img src="https://streak-stats.demolab.com?user=simhyeoncheol&hide_border=true&background=00000000&ring=0D96F6&fire=0D96F6&currStreakLabel=0D96F6" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=simhyeoncheol&hide_border=true&background=00000000&ring=0D96F6&fire=0D96F6&currStreakLabel=0D96F6&currStreakNum=0D96F6&sideNums=0D96F6&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
 
 <br>
 
