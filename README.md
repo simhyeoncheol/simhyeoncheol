@@ -26,6 +26,8 @@ iPhone · Apple Watch · macOS · Windows · Chrome까지, 한 아이디어를 �
 
 **Desktop**  
 ![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![WebView2](https://img.shields.io/badge/WebView2-0078D4?style=flat-square&logo=dotnet&logoColor=white)
+![Chromium](https://img.shields.io/badge/Chromium-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 
 **Frontend & Mobile**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
